@@ -25,3 +25,5 @@ Este projeto web tem como objetivo fornecer informações sobre pets não conven
 * **styles.css:** Arquivo de estilos CSS.
 * **dados.js:** Arquivo contendo os dados das espécies (JSON).
 * **app.js:** Lógica principal da aplicação em JavaScript.
+
+  ### **Acesse o app pelo site https://pets-nao-convencionais.vercel.app/**
